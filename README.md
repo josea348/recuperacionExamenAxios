@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 # librerias
 
-npm i axios react-router-dom
+npm i axios react-router-dom cors
