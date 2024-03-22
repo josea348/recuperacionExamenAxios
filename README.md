@@ -16,4 +16,4 @@ npm i axios react-router-dom
 
 # en el backend
 
-npm icors
+npm i cors
